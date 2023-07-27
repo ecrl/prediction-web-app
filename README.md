@@ -13,3 +13,9 @@ DJANGO_SUPERUSER_EMAIL=example@example.com
 DJANGO_SUPERUSER_PASSWORD=adminpassword
 WEB_PORT=8000
 ```
+
+Run with:
+
+```
+$ docker compose up -d
+```
