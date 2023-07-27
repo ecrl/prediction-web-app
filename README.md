@@ -1,5 +1,5 @@
 # prediction-web-app
-A web application for predicting chemical properties relevant to combustion. Built using Python, Django, PyTorch, and RDKit.
+A web application for predicting chemical properties relevant to combustion. Built using Python, Django, PostgreSQL, PyTorch, and RDKit.
 
 Set the following environment variables (or create a `.env` file):
 
